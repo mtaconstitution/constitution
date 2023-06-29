@@ -1,6 +1,7 @@
 <style type="text/css">
     ol ol { list-style-type: lower-alpha; }
 </style>
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 *Accurate as of 2023-04-26*
 
 ## Table of Contents
