@@ -277,4 +277,5 @@ RESOLVED: We hereby adopt this Constitution as the highest law of Mount Augusta.
 2. When this Constitution is adopted, preliminary citizens who ratified this Constitution are granted full voter registration, bypassing the usual three day wait period.
 3. Until the first Mayor is elected, RedDevel will act as Provisional Mayor with all the powers, rights, and responsibilities of the office of Mayor. The Provisional Mayor directs efforts to find a suitable location for Mount Augusta, oversees the formation of land claims, and organizes and runs the first elections as described in [VII.Q](#VII-Q).
 
+<span id="janetisafuckingsimp"></span>
 ![here you go janet you simp](/IMG_1793.png)
