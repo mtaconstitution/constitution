@@ -2,7 +2,7 @@
     ol ol { list-style-type: lower-alpha; }
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
-*Accurate as of 2023-04-26*
+*Accurate as of 2023-06-30*
 
 ## Table of Contents
 #### [Article I: Basic Provisions](#I)
