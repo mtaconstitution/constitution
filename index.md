@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 <style type="text/css">
     ol ol { list-style-type: lower-alpha; }
 </style>
