@@ -7,4 +7,4 @@ layout: home
 </style>
 <link rel="shortcut icon" type="image/x-icon" href="favicon.ico?">
 
-## [Constitution](/index.md)
+## (WIP)
